@@ -2,6 +2,7 @@ site_name: ServiLive Docs
 site_url: https://docs.servilive.cl
 theme:
   name: material
+  language: es
   features:
     - navigation.instant
     - navigation.instant
@@ -16,7 +17,12 @@ theme:
 
 nav:
   - Home: index.md
-  - Reglas: reglas/reglas.md
+  - Reglas:
+    - Generales: reglas/generales.md
+    - Servidor de Discord: reglas/discord.md
+    - Servidores de juego: reglas/juegos.md
+    - Versus Saxton Hale: reglas/vsh.md
+    - Jailbreak: reglas/jb.md
 
 markdown_extensions:
   - admonition
