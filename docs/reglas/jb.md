@@ -3,8 +3,9 @@
 ## General
 
 1. Sé respetuoso con el Warden mientras quiera dar órdenes.
-??? info
-    Esto aplica para **todos**, tanto jugadores del equipo BLU como del RED.
+
+    ??? info
+        Esto aplica para **todos**, tanto jugadores del equipo BLU como del RED.
 
 2. Si nadie ha reclamado el estado de Warden, es día libre hasta que alguien lo reclame.
 
@@ -14,20 +15,22 @@
 
 1. Es obligatorio que puedas usar un micrófono de suficientemente buena calidad como para que otros te puedan escuchar coherentemente a través del mismo, y que estés en un entorno silencioso que no pueda dificultar a los otros escucharte.
 2. No hagas "freekill".
-??? info
-    Se denomina como "freekill" al acto de, siendo un guardia, matar a prisioneros no-rebeldes sín motivo alguno.
-    Razones por las cuales sí está justificado matar a un prisionero:
-    - El prisionero falló en obedecer una orden del Jefe de prisión / Warden.
-    - El prisionero atacó a un guardia que nó se encontraba dentro de la zona prisionera de un juego.
-    - El prisionero atacó a un guardia que nó realizó bait (Los baiters son aquellos BLUs que tauntean o caminan cerca de REDs).
-    - El prisionero atacó al Warden (No importa la situación, esto siempre va a significar rebeldía).
-    - El prisionero rompió estructuras del mapa que le permiten salir de su celda o entrar a la armería.
-    - El prisionero tuvo o tiene, disparó o recargó cualquier arma de fuego.
+
+    ??? info
+        Se denomina como "freekill" al acto de, siendo un guardia, matar a prisioneros no-rebeldes sín motivo alguno.
+        Razones por las cuales sí está justificado matar a un prisionero:
+        - El prisionero falló en obedecer una orden del Jefe de prisión / Warden.
+        - El prisionero atacó a un guardia que nó se encontraba dentro de la zona prisionera de un juego.
+        - El prisionero atacó a un guardia que nó realizó bait (Los baiters son aquellos BLUs que tauntean o caminan cerca de REDs).
+        - El prisionero atacó al Warden (No importa la situación, esto siempre va a significar rebeldía).
+        - El prisionero rompió estructuras del mapa que le permiten salir de su celda o entrar a la armería.
+        - El prisionero tuvo o tiene, disparó o recargó cualquier arma de fuego.
 
 3. No seas corrupto.
-??? example "Ejemplos"
-    - Hacer ojo ciego o favoritismo a un prisionero
-    - Intencionalmente retrasar la muerte de un rebelde
+
+    ??? example "Ejemplos"
+        - Hacer ojo ciego o favoritismo a un prisionero
+        - Intencionalmente retrasar la muerte de un rebelde
 
 4. Si sos el último guardia vivo, y en la misma ronda hubo mpodés matar a todos excepto al último prisionero no-rebelde
 
