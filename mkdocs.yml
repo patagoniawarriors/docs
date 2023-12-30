@@ -53,6 +53,7 @@ nav:
   - Comandos:
     - Usuarios: cmds/usuarios.md
     - VIPs: cmds/vips.md
+    - Staff: cmds/staff.md
 
 markdown_extensions:
   - admonition
