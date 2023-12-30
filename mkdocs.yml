@@ -43,12 +43,12 @@ theme:
         name: Switch to system preference
 
 nav:
-  - Home: index.md
+  - Inicio: index.md
   - Reglas:
     - Introducción: reglas/intro.md
-    - Reglas de conducta: reglas/generales.md
-    - Reglas de Juego: reglas/juegos.md
-    - Modos de Juego: reglas/gamemodes.md
+    - Reglas de conducta: reglas/conducta.md
+    - Reglas de juego: reglas/juegos.md
+    - Reglas de modos de juego: reglas/gamemodes.md
   - Comandos:
     - Usuarios: cmds/usuarios.md
     - VIPs: cmds/vips.md

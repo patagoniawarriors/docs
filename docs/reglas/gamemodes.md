@@ -2,67 +2,70 @@
 
 ## Freak Fortress 2 (FF2)
 
-Freak Fortress 2 es un modo de juego que consta de un Jefe jugable en el Equipo BLU con habilidades personalizadas basadas en un personaje el cual debe pelear contra las clases que se encuentran en el equipo RED.
+Freak Fortress 2 es un modo de juego en el que un jugador asume el rol de un Jefe jugable en el Equipo BLU con habilidades personalizadas, enfrentándose a las clases del Equipo RED.
 
-1. No campees en una misma area por más de 30 segundos.
+1. No permanezcas en un área por más de 30 segundos.
 
     !!! info "Excepciones"
-        Únicamente estás permitido campear con las siguientes clases, mientras no seas jefe:
+        Está permitido permanecer en una misma área solo con las siguientes clases, excepto si eres jefe:
 
         - Heavy.
         - Engineer.
         - Sniper.
 
-2. No seas [friendly](https://wiki.teamfortress.com/wiki/Community_fads#Friendlies).
+2. Evita ser [friendly](https://wiki.teamfortress.com/wiki/Community_fads#Friendlies).
 
     !!! info "Excepciones"
 
-        La única excepción a esta regla es si es que estás haciendo la taunt ["Rock Paper Scissors" (o informalmente conocido como RPS)](https://wiki.teamfortress.com/wiki/Rock,_Paper,_Scissors)
+        La única excepción es cuando utilizas la taunt ["Rock Paper Scissors"](https://wiki.teamfortress.com/wiki/Rock,_Paper,_Scissors).
 
 ## Jailbreak (JB)
 
-Jailbreak es un modo de juego rol que consta de dos equipos, el lado BLU donde se encuentra el Jefe de Prisión / Warden y los Guardias, mientras que en lado RED se encuentran los prisioneros.
+Jailbreak es un modo de juego de rol con dos equipos: el Equipo BLU con el Jefe de Prisión / Warden y los Guardias, y el Equipo RED conformado por los prisioneros.
 
-En este documento, encontrarás información sobre las Reglas de cada rol, términos y demás para evitar problemas en el modo de juego.
+En este documento encontrarás información sobre las reglas para cada rol, términos y más para evitar problemas en el modo de juego.
 
 ### Reglas generales
 
-1. Se prohibe todo tipo de Ghosting, salvo que este campeando sin hacer nada y haciendo perder tiempo valioso de la ronda.
+1. No realices Ghosting, salvo que una persona esté campeando sin participar activamente en la ronda.
 
     !!! info "Ghosting"
-        Ghosting significa el informar a los vivos de cosas utiles de la partida por cualquier medio mientras te encuentras muerto.
-        Esto incluye:
-        - Decirlo desde Chat de Juego.
-        - Decirlo desde Chat de Voz.
-        - Desde comando 8ball.
-        - Por privado de Steam, Discord, ectetera.
+        Ghosting implica informar a los vivos información útil de la partida mientras estás muerto. Esto incluye:
 
-2. Se prohibe alargar las rondas innecesariamente.
+        - Chat de Juego.
+        - Chat de Voz.
+        - Comando 8ball.
+        - Mensajes privados en Steam, Discord, etc.
+
+2. Evita alargar innecesariamente las rondas.
 
     !!! info "¡Importante!"
 
-        Dicho esto, los del Equipo BLU no pueden campear armería esperando a que el prisionero rebelde entre a esta, ni el rebelde puede quedarse escondido toda la ronda solo para gastar tiempo.
+        Los jugadores del Equipo BLU no deben campear armería esperando a que el prisionero rebelde entre, ni el rebelde puede esconderse toda la ronda solo para gastar tiempo.
 
-3. Sé respetuoso con el Warden mientras quiera dar órdenes.
+3. Sé respetuoso con el Warden mientras este quiera dar órdenes.
 
     !!! info "Sin excepciones"
-        Esto aplica para **todos**, tanto jugadores del equipo BLU como del RED.
-        En tal caso de que lo hagas, serás sancionado con Muteo.
+        Esta regla aplica para **todos** los jugadores, tanto del Equipo BLU como del RED. El incumplimiento será sancionado con Muteo.
 
-4. Si nadie reclama el Warden, es día libre hasta que alguien lo reclame.
+4. Si nadie reclama el rol de Warden, se considerará como día libre hasta que alguien lo haga.
 
-5. Cuando una partida empieza, la primera ronda siempre es considerada como día libre.
+5. La primera ronda de una partida siempre se considera como día libre.
 
 ### Equipo BLU: Rol de Guardia
 
-El Guardia es el Rol inferior al Jefe de Prisión el cual se encarga de mantener a los prisioneros segun las ordenes que dicte el Warden.
+El Guardia es un rol inferior al Jefe de Prisión encargado de mantener a los prisioneros según las órdenes del Warden.
 
-1. Es obligatorio que poseas un micrófono y que este sea de una buena calidad como para que los demás te puedan escuchar coherentemente a través del mismo, y que estes en un entorno silencioso el cual no dificulte a los otros al escucharte.
+1. Obligatorio tener un micrófono.
+
+    ??? info "¡Importante!"
+        Este debe ser de buena calidad como para que los demás te puedan escuchar coherentemente a través de este.
+        A su vez, se recomienda estar en un entorno silencioso el cual no dificulte a los otros a la hora de escucharte.
 
 2. Prohibido realizar freekill.
 
     ??? info "Término Freekill"
-        Se denomina al Freekill como la acción de matar a un prisionero sin motivo alguno.
+        Freekill es el acto de matar a un prisionero sin motivo alguno.
 
     ??? info "Motivos válidos para asesinar a un prisionero:"
         - El prisionero falló en obedecer una orden del Jefe de prisión / Warden.
@@ -75,53 +78,53 @@ El Guardia es el Rol inferior al Jefe de Prisión el cual se encarga de mantener
 3. No ser corrupto.
 
     !!! example "Ejemplos"
-        - Hacer ojo ciego o favoritismo a un prisionero
-        - Intencionalmente retrasar la muerte de un rebelde
+        - Hacer ojo ciego o favoritismo a un prisionero.
+        - Retrasar intencionalmente la muerte de un rebelde.
 
 4. Si eres el último guardia vivo, puedes matar a todos, excepto al último prisionero no-rebelde.
 
     !!! info "¡Importante!"
-        Esto no aplica si eres el único guardia de la ronda.
+        Esta regla no aplica si eres el único guardia de la ronda.
 
-5. No puedes campear dentro de armería, o entrar y salir constantemente para dejar entrar a prisioneros.
+5. No campear dentro de armería, ni entrar y salir constantemente para dejar entrar a prisioneros.
 
 ### Equipo BLU: Rol de Warden / Jefe de Prisión
 
-El Jefe de Prisión es el Rol superior al Guardia que se encarga de dar ordenes a los Prisioneros.
+El Jefe de Prisión tiene el rol superior al Guardia y es responsable de dar órdenes a los Prisioneros.
 
-1. Las reglas de Guardia se aplican tambien para tí.
+1. Se aplican las reglas de Guardia también para ti.
 
-2. Eres el único capaz de dar órdenes, nadie mas.
+2. Eres el único autorizado para dar órdenes.
 
-3. Estás obligado a otorgarle deseo al último prisionero vivo no rebelde.
+3. Estás obligado a otorgar deseo al último prisionero no-rebelde.
 
     !!! info "¡Importante!"
-        Si queda un rebelde y un no rebelde vivo, deberás otorgarle deseo aun así al no rebelde.
+        Aunque quede un rebelde y un no-rebelde vivo, debes otorgar deseo al no rebelde.
 
-4. Prohibido otorgarle deseo a rebeldes.
+4. Prohibido otorgar deseo a rebeldes.
 
 ### Reglas de Órdenes
 
-1. No puedes dar órdenes que impliquen el suicidio de los prisioneros o que resulten en su clara muerte.
+1. No des órdenes que impliquen el suicidio de los prisioneros o que resulten en su clara muerte.
 
-2. No puedes dar órdenes de reacción rápida espontaneamente para deshacerte de prisioneros facilmente (ejemplo: "ÚLTIMO EN SALTAR, MUERE!" así de la nada).
+2. Evita dar órdenes de reacción rápida para deshacerte fácilmente de prisioneros.
 
 3. Toda órden que se dé, se le agrega un “Sin desvíos ni demoras” al final (No es necesario que se diga, está implicado en todas las órdenes) de no ser que el Warden mismo diga otra cosa.
 
-4. Todas las órdenes deberán ser globales, no puedes hacer favoritismo entre los prisioneros con tus órdenes.
+4. Las órdenes deben ser globales, evita favorecer a algunos prisioneros.
 
-5. El Warden puede usar términos específicos para representar un grupo de órdenes, los cuales son:
+5. El Warden puede usar términos específicos para representar grupos de órdenes.
 
-    !!! info ""
+    !!! info "Términos:"
         - Congelados: Los prisioneros no podrán moverse en ninguna dirección, saltar, atacar, agacharse o mover la cámara. Solo se puede anular con la orden de Descongelados.
-        - Quietos: Los prisioneros no podrán moverse en ninguna dirección, pero sí saltar, agacharse, atacar y mover la cámara.
+        - Quietos: Los prisioneros no podrán moverse en ninguna dirección, pero sí saltar, agacharse, atacar y mover la cámara. No hace falta anular a diferencia de Congelados.
 
-6. Las órdenes deben ser lo más claras y sencillas posibles, no puedes usar parla intencional para confundir a los jugadores (Ejemplo de órden mala: “Van a ir a la parte más baja de sus celdas de abajo para arriba”)
+6. Las órdenes deben ser claras y sencillas, evita confundir a los jugadores.
 
     !!! example "Ejemplo de órden mala"
-        - Van a ir a la parte mas baja de sus celdas de abajo para arriba.
+        - "Van a ir a la parte mas baja de sus celdas de abajo para arriba".
 
-7. No puedes obligar a los prisioneros a realizar una taunt que incluya todos los siguientes puntos al mismo tiempo:
+7. No obligues a los prisioneros a realizar taunts las siguientes caracteristicas.
 
     !!! info ""
         - Tenga un delay en activarse, dejándolo paralizado por unos momentos.
@@ -132,34 +135,33 @@ El Jefe de Prisión es el Rol superior al Guardia que se encarga de dar ordenes 
 
 ### Reglas de Juegos
 
-1. El Warden puede llevar a los prisioneros a juegos del mapa, o hacer los suyos, sin embargo, esto último está limitado a lo siguiente:
+1. El Warden puede llevar a los prisioneros a juegos del mapa o crear sus propios juegos, con limitaciones.
 
     !!! info "Limitaciones"
-        1. El juego no debe poder ser influenciado por los guardias, debe ser equitativo para todos (Ejemplo de juego que esta prohibido: "Bala perdida").
-        2. El Warden deberá explicar las reglas de este (Ejemplo más famoso: “Vamos a jugar simón dice, de ahora en adelante obedecerán todo lo que les diga solo si digo ‘Simón Dice’ seguido de la órden, a partir de ahora Simón dice que comienza el juego:”).
+        - El juego no debe ser influenciado por los guardias y debe ser equitativo (Ejemplo de juego prohibido: "Bala perdida").
+        - El Warden debe explicar las reglas del juego (Ejemplo famoso: “Vamos a jugar simón dice, de ahora en adelante obedecerán todo lo que les diga solo si digo ‘Simón Dice’ seguido de la órden, a partir de ahora Simón dice que comienza el juego:”).
 
-2. En los juegos del mapa, se prohibe castigar al ganador de este.
+2. En los juegos del mapa, se prohíbe castigar al ganador.
 
 ### Reglas de Deseos
 
-1. Si el deseo pedido es uno del menú, una vez seleccionado los guardias podrán matar al que pidió el deseo.
+1. Si el deseo es del menú, los guardias pueden matar al que lo pidió una vez seleccionado.
 
     !!! info "Deseo personalizado"
-        Si el deseo pedido es un "deseo personalizado", se le deberá dejar escribir primero su deseo antes de matarlo.
+        Para un "deseo personalizado", el prisionero debe escribirlo antes de ser matado.
 
-2. Los deseos personalizados tienes ciertas limitaciones que deberán ser respetadas:
+2. Los deseos personalizados tienen limitaciones.
 
     !!! info "Obligatorio:"
-        1. No puedes obligar a nadie a hacer algo humillante, solo si estos aceptan (Ejemplo: Gemir, gritar, entre otras cosas humillantes).
-        2. No puedes pedir deseos que ya están en el menú, o son en parte con el menú (Ejemplo: Quiero freeday para 4 personas xq el menú ya no me deja seleccionar el deseo original).
-        3. No puedes pedir ningún deseo que cause conflicto con alguna regla del servidor.
+        1. No obligar a acciones humillantes sin consentimiento (Ejemplo: Gemir, gritar, entre otras cosas humillantes).
+        2. No pedir deseos que causen conflicto con reglas del servidor (Ejemplo: Quiero freeday para 4 personas xq el menú ya no me deja seleccionar el deseo original).
 
-3. Durante Warday y Class Warfare, se prohibe atacar antes de que el contador llegue a 9:00.
+3. Durante Warday y Class Warfare, se prohíbe atacar antes de que el contador llegue a 9:00.
 
 ### Reglas de Días libres
 
-1. Los Jefes de Prisión no podrán dar órdenes.
+1. Los Jefes de Prisión no pueden dar órdenes.
 
-2. Cualquier tipo de ataque hacia un BLU amerita la muerte del prisionero.
+2. Cualquier ataque hacia un BLU amerita la muerte del prisionero.
 
-3. Las demás condiciones de Freekill siguen vigentes.
+3. Las condiciones de Freekill siguen vigentes.
