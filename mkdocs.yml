@@ -7,7 +7,6 @@ theme:
   language: es
   features:
     - navigation.instant
-    - navigation.instant
     - navigation.instant.prefetch
     - navigation.tracking
     - navigation.tabs
@@ -15,6 +14,8 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.indexes
+    - navigation.path
+    - navigation.footer
     - toc.follow
     - toc.integrate
     - navigation.indexes
@@ -57,3 +58,12 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/cfYHjJ7RSZ
+    - icon: fontawesome/brands/github
+      link: https://github.com/servilive/docs
+
+copyright: Copyright &copy; 2023 - 2023 ServiLive
