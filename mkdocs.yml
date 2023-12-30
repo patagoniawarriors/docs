@@ -1,4 +1,4 @@
-site_name: ServiLive TF2 Docs
+site_name: Servilive 
 site_url: https://docs.servilive.cl
 theme:
   logo: assets/ss.svg
@@ -16,6 +16,8 @@ theme:
     - navigation.expand
     - navigation.indexes
     - toc.follow
+    - toc.integrate
+    - navigation.indexes
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -46,11 +48,10 @@ nav:
     - Introducción: reglas/intro.md
     - Reglas de conducta: reglas/generales.md
     - Reglas de Juego: reglas/juegos.md
-    - Freak Fortress 2: reglas/ff2.md
-    - Jailbreak: reglas/jb.md
+    - Modos de Juego: reglas/gamemodes.md
   - Comandos:
-    - Usuarios: comandos/usuarios.md
-    - VIPs: comandos/vips.md
+    - Usuarios: cmds/usuarios.md
+    - VIPs: cmds/vips.md
 
 markdown_extensions:
   - admonition

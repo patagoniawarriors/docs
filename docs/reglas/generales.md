@@ -2,7 +2,7 @@
 
 1. Evitá ser tóxico e intentá tratar bien a los demás.
 
-    ??? info "¡Importante!"
+    !!! info "¡Importante!"
 
         Es normal que haya conversaciones que parezcan peleas, o que tengan insultos que en otro contexto a desconocidos puedan ser altamente ofensivos o provocadores. Acá basate en el contexto:  
         ¿Es una conversación acalorada y con naturaleza violenta?  
@@ -40,14 +40,14 @@
 
 5. No abuses en **exceso** del chat de voz, ya sea mediante [micspam](https://www.urbandictionary.com/define.php?term=Mic+Spam) o de exploits.
 
-    ??? info "¡Importante!"
+    !!! info "¡Importante!"
 
         La palabra clave para esta regla es "exceso". Si tenes un soundpad y ponés un audio gracioso con el que todo el servidor se ríe, no vas a ser muteado directamente, lo mismo si es que queres decir algo gracioso con el micrófono pegado a la boca [(Creemos fuertemente que ruidoso = gracioso)](https://www.youtube.com/@SrPelo). El problema es cuando empezás a volverlo un hábito y lo hacés de forma muy frecuente, con tal de que vos terminás siendo el único abusando e incluso interrumpiendo o cubriendo otros sonidos, sean otras personas hablando, o en el caso de los servidores de juego los sonidos del mismo.
 
 6. Usá el [sentido común](../assets/sentido-comun.png).
 
-    ??? info "¡Importante!"
+    !!! info "¡Importante!"
 
         Con esto nos referimos a que, antes de actuar, pensá sobre tus consecuencias y qué tan grave podrá ser lo que harás.
 
-El staff de ServiLive se reserva el derecho a aplicar cualquier sanción por cualquier motivo a cualquier usuario común, sin verse obligado a justificar públicamente los motivos.
+El staff de Servilive se reserva el derecho a aplicar cualquier sanción por cualquier motivo a cualquier usuario común, sin verse obligado a justificar públicamente los motivos.
