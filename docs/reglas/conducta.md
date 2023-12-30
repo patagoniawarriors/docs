@@ -25,7 +25,7 @@
 
     ??? example "Ejemplos"
 
-        - Sprays que contengan todo tipo de cotnenido pornográfico/gore, desagradable, entre otros
+        - Sprays que contengan todo tipo de contenido pornográfico/gore, desagradable, entre otros
         - Enlaces externos o internos a contenido pornográfico
         - "Decals" del [Manifestante Concienzudo](https://wiki.teamfortress.com/wiki/Conscientious_Objector/es), [¡Estilo!](https://wiki.teamfortress.com/wiki/Flair!/es) o la [Insignia Fotográfica](https://wiki.teamfortress.com/wiki/Photo_Badge/es).
         - Audios para micspam, gemidos especialmente.
