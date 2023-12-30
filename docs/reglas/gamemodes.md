@@ -67,7 +67,7 @@ El Guardia es un rol inferior al Jefe de Prisión encargado de mantener a los pr
     ??? info "Término Freekill"
         Freekill es el acto de matar a un prisionero sin motivo alguno.
 
-    ??? info "Motivos válidos para asesinar a un prisionero:"
+    ??? info "Motivos válidos para asesinar a un prisionero"
         - El prisionero falló en obedecer una orden del Jefe de prisión / Warden.
         - El prisionero atacó a un guardia que nó se encontraba dentro de la zona prisionera de un juego.
         - El prisionero atacó a un guardia que nó realizó bait (Los baiters son aquellos BLUs que tauntean o caminan cerca de REDs).
@@ -115,7 +115,7 @@ El Jefe de Prisión tiene el rol superior al Guardia y es responsable de dar ór
 
 5. El Warden puede usar términos específicos para representar grupos de órdenes.
 
-    !!! info "Términos:"
+    !!! info "Términos"
         - Congelados: Los prisioneros no podrán moverse en ninguna dirección, saltar, atacar, agacharse o mover la cámara. Solo se puede anular con la orden de Descongelados.
         - Quietos: Los prisioneros no podrán moverse en ninguna dirección, pero sí saltar, agacharse, atacar y mover la cámara. No hace falta anular a diferencia de Congelados.
 
@@ -139,7 +139,7 @@ El Jefe de Prisión tiene el rol superior al Guardia y es responsable de dar ór
 
     !!! info "Limitaciones"
         - El juego no debe ser influenciado por los guardias y debe ser equitativo (Ejemplo de juego prohibido: "Bala perdida").
-        - El Warden debe explicar las reglas del juego (Ejemplo famoso: “Vamos a jugar simón dice, de ahora en adelante obedecerán todo lo que les diga solo si digo ‘Simón Dice’ seguido de la órden, a partir de ahora Simón dice que comienza el juego:”).
+        - El Warden debe explicar las reglas del juego (Ejemplo famoso: “Vamos a jugar simón dice, de ahora en adelante obedecerán todo lo que les diga solo si digo ‘Simón Dice’ seguido de la órden, a partir de ahora Simón dice que comienza el juego”).
 
 2. En los juegos del mapa, se prohíbe castigar al ganador.
 
@@ -152,7 +152,7 @@ El Jefe de Prisión tiene el rol superior al Guardia y es responsable de dar ór
 
 2. Los deseos personalizados tienen limitaciones.
 
-    !!! info "Obligatorio:"
+    !!! info "Obligatorio"
         1. No obligar a acciones humillantes sin consentimiento (Ejemplo: Gemir, gritar, entre otras cosas humillantes).
         2. No pedir deseos que causen conflicto con reglas del servidor (Ejemplo: Quiero freeday para 4 personas xq el menú ya no me deja seleccionar el deseo original).
 
