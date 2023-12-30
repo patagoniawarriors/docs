@@ -1,6 +1,8 @@
-site_name: ServiLive Docs
+site_name: ServiLive TF2 Docs
 site_url: https://docs.servilive.cl
 theme:
+  logo: assets/ss.svg
+  favicon: assets/servilive-64.png
   name: material
   language: es
   features:
@@ -14,15 +16,38 @@ theme:
     - navigation.expand
     - navigation.indexes
     - toc.follow
+  palette: 
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
 
 nav:
   - Home: index.md
   - Reglas:
-    - Generales: reglas/generales.md
-    - Servidor de Discord: reglas/discord.md
-    - Servidores de juego: reglas/juegos.md
-    - Versus Saxton Hale: reglas/vsh.md
+    - Introducción: reglas/intro.md
+    - Reglas de conducta: reglas/generales.md
+    - Reglas de Juego: reglas/juegos.md
+    - Freak Fortress 2: reglas/ff2.md
     - Jailbreak: reglas/jb.md
+  - Comandos:
+    - Usuarios: comandos/usuarios.md
+    - VIPs: comandos/vips.md
 
 markdown_extensions:
   - admonition

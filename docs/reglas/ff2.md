@@ -1,4 +1,4 @@
-# Versus Saxton Hale (VSH)
+# Freak Fortress 2 (FF2)
 
 1. No campees en una misma area por más de 30 segundos.
 
@@ -6,6 +6,7 @@
         Únicamente estás permitido campear con las siguientes clases, mientras no seas jefe:
 
         - Heavy.
+        - Engineer.
         - Sniper.
 
 2. No seas [friendly](https://wiki.teamfortress.com/wiki/Community_fads#Friendlies).
