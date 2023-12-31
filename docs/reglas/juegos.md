@@ -17,9 +17,9 @@
         - Intencionalmente evitar al enemigo para hacer tiempo.
         - Intencionalmente no capturar el punto.
         - Campear en lugares inaccesibles por el enemigo, o a los que sea extraordinariamente acceder.
-        - (DODGEBALL) Orbitar un cohete alrededor tuyo por más de 10 segundos.
-        - (JAILBREAK) Campear en armería, entrar y salir constantemente.
-        - (FREAK FORTRESS 2) Estar intentando hacer Market-Garden como 5 u 8 minutos sin haber hecho daño.
+        - (**DODGEBALL**) Orbitar un cohete alrededor tuyo por más de 10 segundos.
+        - (**JAILBREAK**) Campear en armería, entrar y salir constantemente.
+        - (**FREAK FORTRESS 2**) Estar intentando hacer Market-Garden como 5 u 8 minutos sin haber hecho daño.
 
 3. Está prohibido hacer "ghosting".
 
