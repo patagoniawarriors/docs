@@ -66,5 +66,7 @@ extra:
       link: https://discord.gg/cfYHjJ7RSZ
     - icon: fontawesome/brands/github
       link: https://github.com/servilive/docs
+    - icon: fontawesome/brands/steam
+      link: https://steamcommunity.com/groups/Servilive
 
 copyright: Copyright &copy; 2023 - 2023 ServiLive
