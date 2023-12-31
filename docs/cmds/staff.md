@@ -1,1 +1,13 @@
-En construcción :333
+- `!ban`: 
+- `!addban`
+- `!admin`
+- `!banip`
+- `!beacon`
+- `!blind`
+- `!bring`
+- `!god`
+- `!buddha`
+- `!burn`
+- `!cancelvote`
+- `!chat`
+- `!csay`
