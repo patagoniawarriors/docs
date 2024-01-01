@@ -46,7 +46,7 @@ En este documento encontrarás información sobre las reglas para cada rol, tér
 
 El Guardia es un rol inferior al Jefe de Prisión encargado de mantener a los prisioneros según las órdenes del Warden.
 
-1. Obligatorio tener un micrófono.
+1. Es obligatorio tener un micrófono.
 
     ??? info "¡Importante!"
         Este debe ser de buena calidad como para que los demás te puedan escuchar coherentemente a través de este.
