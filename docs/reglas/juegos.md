@@ -25,7 +25,7 @@
 
     !!! info "¡Información!"
 
-        Se denomina como "ghosting" al acto de informar a los vivos información util de la partida por cualquier medio mientras uno se encuentra muerto.
+        Se denomina como "ghosting" al acto de informar a los vivos información util de la partida por cualquier medio mientras uno se encuentra muerto. Esto aplica a todos los medios, desde los públicos tales como el chat de voz del servidor, comandos como el `!8ball`, a privados como mensajes directos y otros.
 
     ??? example "Ejemplos"
 
