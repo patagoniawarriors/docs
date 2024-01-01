@@ -1,3 +1,7 @@
+!!! warning
+
+    Este documento aún es un WIP (Work in progress). No uses esto como referencia, ya que puede tener información erronea.
+
 Por conveniencia, estos comandos se van a listar con el formato `!<comando>`. Si lo usas con `/`, no va a salir el mensaje en el chat públicamente, pero sí se va a ejecutar de todas formas.
 
 - `!ayuda`: Muestra un menú con info importante como las reglas, los enlaces a los grupos y servidores, y algunos listados de comandos.
