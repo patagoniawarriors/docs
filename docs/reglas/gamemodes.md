@@ -27,30 +27,20 @@ En este documento encontrarás información sobre las reglas para cada rol, tér
 
 ### Reglas generales
 
-1. No realices Ghosting, salvo que una persona esté campeando sin participar activamente en la ronda.
-
-    !!! info "Ghosting"
-        Ghosting implica informar a los vivos información útil de la partida mientras estás muerto. Esto incluye:
-
-        - Chat de Juego.
-        - Chat de Voz.
-        - Comando 8ball.
-        - Mensajes privados en Steam, Discord, etc.
-
-2. Evita alargar innecesariamente las rondas.
+1. Evita alargar innecesariamente las rondas.
 
     !!! info "¡Importante!"
 
         Los jugadores del Equipo BLU no deben campear armería esperando a que el prisionero rebelde entre, ni el rebelde puede esconderse toda la ronda solo para gastar tiempo.
 
-3. Sé respetuoso con el Warden mientras este quiera dar órdenes.
+2. Sé respetuoso con el Warden mientras este quiera dar órdenes.
 
     !!! info "Sin excepciones"
         Esta regla aplica para **todos** los jugadores, tanto del Equipo BLU como del RED. El incumplimiento será sancionado con Muteo.
 
-4. Si nadie reclama el rol de Warden, se considerará como día libre hasta que alguien lo haga.
+3. Si nadie reclama el rol de Warden, se considerará como día libre hasta que alguien lo haga.
 
-5. La primera ronda de una partida siempre se considera como día libre.
+4. La primera ronda de una partida siempre se considera como día libre.
 
 ### Equipo BLU: Rol de Guardia
 
