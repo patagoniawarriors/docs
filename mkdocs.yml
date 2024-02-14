@@ -51,9 +51,9 @@ nav:
     - Reglas de juego: reglas/juegos.md
     - Reglas de modos de juego: reglas/gamemodes.md
   - Comandos:
-    - Usuarios: cmds/usuarios.md
-    - VIPs: cmds/vips.md
-    - Staff: cmds/staff.md
+    - Usuarios: others/usuarios.md
+    - VIPs: others/vips.md
+    - Staff: others/staff.md
 
 markdown_extensions:
   - admonition
