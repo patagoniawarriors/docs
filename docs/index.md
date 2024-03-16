@@ -1,5 +1,6 @@
-# Bienvenido a la documentación de ServiLive
+# Documentación del Servidor | PW
 
-Esta documentación aún es un trabajo en desarrollo, por lo que documentos tales el de las reglas pueden ser reescritos diariamente en varias iteraciones sin aviso previo. 
+La documentacion que se encontrara en esta pagina es todo lo esencial para saber del servidor como tambien sus reglas y comandos, sientete libre de leerlos!
 
-Si encuentras problemas, por favor [reportalos en el Discord](https://discord.gg/cfYHjJ7RSZ), o aporta directamente a las mismas y haz cambios al código fuente en nuestro [repositorio de GitHub](https://github.com/servilive/docs).
+Si encontraste alguna falla en esta pagina [avisalo por nuestro Discord](https://discord.gg/WPJuTwwCTD) ya sea a stereosound personalmente o via ticket, estaremos contestando a la brevedad y leer todo.
+> [Repositorio de GitHub](https://github.com/patagoniawarriors/docs). <
