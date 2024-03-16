@@ -6,7 +6,7 @@ Si encontraste alguna falla en esta pagina [avisalo por nuestro Discord](https:/
 
 > **[Reglas del Servidor](info/reglas.md) 🧉**
 
-> **[Rango Donador](info/donaciones.md) 🧉**
+> **[Rango Donador](info/donaciones/donaciones.md) 🧉**
 
 > **[Servidores disponibles](info/servidores.md) 🎮**
 
