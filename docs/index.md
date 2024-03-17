@@ -4,11 +4,11 @@ La documentacion que se encontrara en esta pagina es todo lo esencial para saber
 
 Si encontraste alguna falla en esta pagina [avisalo por nuestro Discord](https://discord.gg/WPJuTwwCTD) ya sea a stereosound personalmente o via ticket, estaremos contestando a la brevedad y leer todo.
 
-> **🧉 [Reglas del Servidor](https://patagoniawarriors.github.io/info/reglas.md)**
+> **🧉 [Reglas del Servidor](info/reglas.md)**
 
-> **🧉 [Rango Donador](https://patagoniawarriors.github.io/donaciones/donar.md)**
+> **🧉 [Rango Donador](donaciones/donar.md)**
 
-> **🎮 [Servidores disponibles](https://patagoniawarriors.github.io/info/servidores.md)**
+> **🎮 [Servidores disponibles](info/servidores.md)**
 
 > ‼️ **[Repositorio de GitHub](https://github.com/patagoniawarriors/docs)**
 
