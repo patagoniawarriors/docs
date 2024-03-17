@@ -1,5 +1,5 @@
 # docs.web | Patagonia Warriors
-Documentacion e Informacion sobre la comunidad/servidores de Patagonia Warriors
+Documentacion e Informacion sobre la comunidad/servidores de [Patagonia Warriors](https://steamcommunity.com/groups/patagoniawarriors)
 
 --- Me verás volar
 
