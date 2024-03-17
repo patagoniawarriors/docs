@@ -1,8 +1,8 @@
-site_name: Servilive 
-site_url: https://docs.servilive.cl
+site_name: Patagonia Warriors
+site_url: https://patagoniawarriors.github.io
 theme:
-  logo: assets/ss.svg
-  favicon: assets/servilive-64.png
+  logo: cosas/pw.ico
+  favicon: cosas/pwficon.png
   name: material
   language: es
   features:
@@ -22,14 +22,14 @@ theme:
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
-      primary: deep purple
+      primary: blue
       toggle:
         icon: material/brightness-auto
         name: Cambiar a modo claro
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      primary: deep purple
+      primary: blue
       scheme: default
       toggle:
         icon: material/brightness-7
@@ -37,7 +37,7 @@ theme:
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
-      primary: deep purple
+      primary: blue
       scheme: slate
       toggle:
         icon: material/brightness-4
@@ -45,15 +45,13 @@ theme:
 
 nav:
   - Inicio: index.md
-  - Reglas:
-    - Introducción: reglas/intro.md
-    - Reglas de conducta: reglas/conducta.md
-    - Reglas de juego: reglas/juegos.md
-    - Reglas de modos de juego: reglas/gamemodes.md
-  - Comandos:
-    - Usuarios: others/usuarios.md
-    - VIPs: others/vips.md
-    - Staff: others/staff.md
+  - Informacion:
+    - Reglas: info/reglas.md
+    - Servidores: info/servidores.md
+  - Donaciones:
+    - Donar al Server: donaciones/donar.md
+    - Beneficios del Donador: donaciones/beneficios.md
+    - TOP 5 Donadores: donaciones/top5.md
 
 markdown_extensions:
   - admonition
@@ -63,10 +61,10 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/cfYHjJ7RSZ
-    - icon: fontawesome/brands/github
-      link: https://github.com/servilive/docs
+      link: https://discord.gg/WPJuTwwCTD
     - icon: fontawesome/brands/steam
-      link: https://steamcommunity.com/groups/Servilive
+      link: https://steamcommunity.com/groups/patagoniawarriors
+    - icon: fontawesome/brands/github
+      link: https://github.com/patagoniawarriors/docs
 
-copyright: Copyright &copy; 2023 - 2023 ServiLive
+copyright: &copy Patagonia Warriors - hecho por stereosound
