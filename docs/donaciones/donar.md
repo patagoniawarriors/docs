@@ -1,6 +1,6 @@
 # Donar al Servidor 🎎
 
-Motivamos a todos a que si tienen algun item, key y/o dinero de sobra puedan donarse para cubrir los costos del hosting al igual que mejorar su rango de existencia/vida del servidor o hasta incluso suba de slots a uno/los dos servidores
+Motivamos a todos a que si tienen algun item, key y/o dinero de sobra puedan donarse para cubrir los costos del hosting al igual que mejorar su rango de existencia/vida del servidor, su apariencia, nuevos proyectos o hasta incluso suba de slots a uno/los dos servidores
 
 Como agradecimiento a aquellos que contribuyan su grano de arena, les traemos recompensas tanto en TF2 como en Discord, que podes ver su lista de beneficios por el [apartado de beneficios](beneficios.md)
 
