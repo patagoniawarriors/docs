@@ -67,4 +67,4 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/patagoniawarriors/docs
 
-copyright: &copy Patagonia Warriors - hecho por stereosound
+copyright: &copy Patagonia Warriors - hecho por stereosound, documentacion basada en [Servilive](https://github.com/servilive/docs)
