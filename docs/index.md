@@ -12,4 +12,7 @@ Si encontraste alguna falla en esta pagina [avisalo por nuestro Discord](https:/
 
 > ‼️ **[Repositorio de GitHub](https://github.com/patagoniawarriors/docs)**
 
-`La ultima donacion fue dada por:` [【﻿ＩＮＦ】 Weed](https://steamcommunity.com/profiles/76561198989065670) `el dia 16/03/24 a las 15:48, gracias por su aporte!`
+
+> La ultima donacion fue dada por: [【﻿ＩＮＦ】 Weed](https://steamcommunity.com/profiles/76561198989065670) el dia 16/03/24 a las 15:48, gracias por su aporte!
+
+Esta documentación es basada en el [repositorio de Servilive](https://github.com/servilive/docs)
