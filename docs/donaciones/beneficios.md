@@ -15,9 +15,9 @@
 !!! info "Comandos"
 	`TODOS ESTOS COMANDOS LOS PODRAS ENCONTRAR EN EL MENU DEL DONADOR [/donor]`
 	
+	- Modelos personalizados [`/equip`] (SOLO EN [MULTIFRUTA](https://patagoniawarriors.github.io/docs/info/servidores/))
 	- Civilian [`/civ`]
 	- CCC (cambio de colores al tag/nombre/texto) [`/ccc`]
-	- Modelos personalizados [`/equip`] (SOLO EN [MULTIFRUTA](https://patagoniawarriors.github.io/docs/info/servidores/))
 	- Footprints/Caminar con marca personalizada [`/footprints`]
 	- Sheens (brillos en tu arma, Spec, Prof, etc) [`/sheen`]
 	- Killstreak [`/ks`]
