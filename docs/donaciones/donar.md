@@ -6,7 +6,7 @@ Como agradecimiento a aquellos que contribuyan su grano de arena, les traemos re
 
 El rango cuesta **1 key**, si bien es permanente y no es necesario tener que hacerlo mensualmente el pago, de igual manera seguiremos recibiendo toda las donaciones (items, keys, monetarias) que ustedes quisiesen darnos en cualquier momento o instancia 🗿🚬
 
-Las donaciones se tienen que hablar unicamente con [stereosound](https://steamcommunity.com/id/beachwalkdog) en Steam, en Discord (unikjl) o simplemente mandando trade offer con la razon de "donacion" en el mensaje.
+Las donaciones se tienen que hablar unicamente con [stereosound](https://steamcommunity.com/profiles/76561198238006332) en Steam, en Discord (unikjl) o simplemente mandando trade offer con la razon de "donacion" en el mensaje.
 
 **[TRADE OFFER](https://steamcommunity.com/tradeoffer/new/?partner=277740604&token=JZGhtMcW)**
 
