@@ -57,12 +57,4 @@
 
 8. Esta prohibido el uso de sprays NSFW / XXX, en caso que se vea sprays de este tipo se baneara automaticamente (spray ban)
 
-**MULTIMOD**
-
-1. No se permite spawncamp dentro de los mapas (exceptuando Glass Attack ; SZF ; Dodgeball)
-
-2. **[HIDDEN]** No se podra campear en un rincon con stickys
-
-3. **[FF2/DR/Arena]** Alargar la partida sera penalizado con slay, si sigue sera baneado por 3 dias o a decision del STAFF
-
 **EL STAFF NO SE HACE CARGO SI NO LEEN LAS REGLAS, TE MANDASTE LA MACANA Y AHORA HAY QUE BANCARSELA POR DESPISTADO, SI TE INCITAN A ROMPERLOS [ACORDATE QUE...](https://www.youtube.com/watch?v=IVtbw4nK7FQ&t=6)**

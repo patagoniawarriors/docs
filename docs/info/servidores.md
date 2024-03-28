@@ -73,16 +73,32 @@ Esta es la lista de mapas disponibles de cada servidor, ordenando de la siguient
 	dr_skibidi_toilet_v2b -
 	dr_horrors -
 	dr_safety_first -
-	dr_berlin_redux -
 	dr_retroland_fix -
-	dr_undertale_finished_v2fix2
+	dr_undertale_finished_v2fix2 -
+	dr_bank_v6 -
+	dr_baby_pirate_adventure_fix2 -
+	dr_psykopat2_v2 -
+	dr_windows_xp -
+	dr_playstation_final
 
-	`- Dodgeball:`
-	tfdb_indoor_tennis_b1a -
-	tfdb_justdoit_b2 -
-	tfdb_pacmen_a4 -
-	tfdb_rocketbucks_v2 -
-	tfdb_virtual_v1b2 
+	`- Freak Fortress 2`
+	vsh_militaryzone_v3 -
+	vsh_egyptyspot_v2_mirrored -
+	vsh_below_zero -
+	vsh_2fortdesk_v8 -
+	vsh_brewery_v3 -
+	vsh_gyros_v5
+	
+	`- Class Wars`
+	cp_dustbowl
+	cp_mercenarypark
+	ctf_doublecross
+	ctf_turbine
+
+	`- Zombie Infection`
+	zi_atoll -
+	zi_woods -
+	zi_sanitarium
 
 	`- Super Zombie Fortress:`
 	szf_streets_v1 -
@@ -90,16 +106,9 @@ Esta es la lista de mapas disponibles de cada servidor, ordenando de la siguient
 	szf_volcanoevac_v6 -
 	szf_waterfront_v2
 
-	`- Glass Attack:`
-	glass_axis -
-	glass_constructsite_v1 -
-	glass_sandstone
-
 	`- Hidden:`
 	arena_badlands -
 	arena_sawmill -
-	arena_summit_b1d -
-	arena_downstream_b2 
 
 	`- WarioWare:`
 	warioware_redux_v5c
@@ -108,15 +117,11 @@ Esta es la lista de mapas disponibles de cada servidor, ordenando de la siguient
 	arena_mw2_highrise -
 	ctf_minetest2 -
 	gg_dust2_dmvm -
-	mg_piratewars_extended_tf -
 	oitc_nuketown_dmvm -
 	rr_rivet_b1a -
 	vip_tfc_hunted 
 
 	`- Mapas Customs:`
 	tdm_ricochet_fortress_b3 -
-	dm_bloode_v1 -
-	tfp_tf2party_b2 -
-	krt_2fort_rc1 -
-	trade_subway_b4 -
+	trade_minecraft_neon_v162 -
 	surf_utopia_v3

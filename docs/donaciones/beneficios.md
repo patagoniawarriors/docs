@@ -15,8 +15,7 @@
 !!! info "Comandos"
 	`TODOS ESTOS COMANDOS LOS PODRAS ENCONTRAR EN EL MENU DEL DONADOR [/donor]`
 	
-	- Loadout Manager [`!lom`] (SOLO EN [PUBLICO](https://patagoniawarriors.github.io/docs/info/servidores/))
-	- Modelos personalizados [`/equip`] (SOLO EN [MULTIFRUTA](https://patagoniawarriors.github.io/docs/info/servidores/))
+	- Modelos personalizados [`/equip`] 
 	- Civilian [`/civ`]
 	- CCC (cambio de colores al tag/nombre/texto) [`/ccc`]
 	- Footprints/Caminar con marca personalizada [`/footprints`]
