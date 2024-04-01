@@ -10,7 +10,7 @@ Pasate un rato y boludea en alguno de nuestros servidores y como no, invitarlos 
 **CONECTARSE AUTOMATICAMENTE:** [steam://connect/45.235.99.105:27356](steam://connect/45.235.99.105:27356)
 <a href="https://www.gametracker.com/server_info/45.235.99.105:27356/" target="_blank"><img src="https://cache.gametracker.com/server_info/45.235.99.105:27356/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
 
-**Server MULTIFRUTA**
+**Server MULTIFRUTA** [END LINE : 10/04/23]
 
 **IP:** 45.235.99.105:27356
 
@@ -125,3 +125,5 @@ Esta es la lista de mapas disponibles de cada servidor, ordenando de la siguient
 	tdm_ricochet_fortress_b3 -
 	trade_minecraft_neon_v162 -
 	surf_utopia_v3
+	
+> Si tenes problemas para descargar los mapas customs descargalo desde [aca](https://linkdemediafire.com) y pegandolo en Steam/steamapps/common/Team Fortress 2/tf/download/maps

@@ -8,6 +8,8 @@ Si encontraste alguna falla en esta pagina [avisalo por nuestro Discord](https:/
 
 > **🧉 [Rango Donador](donaciones/donar.md)**
 
+> **🧉 [Top 5 Donadores](donaciones/top5.md)**
+
 > **🎮 [Servidores disponibles](info/servidores.md)**
 
 > ‼️ **[Repositorio de GitHub](https://github.com/patagoniawarriors/docs)**
