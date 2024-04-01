@@ -21,7 +21,5 @@ Las donaciones se tienen que hablar unicamente con [stereosound](https://steamco
 	- Color del TAG: tu Color de TAG
 	
 	Tu STEAMID lo encontras [por aca](https://steamid.uk) copiando y pegando tu perfil de Steam o tambien usando el comando **!user** dentro del server y para el Color del Tag [por aca](https://htmlcolorcodes.com) (HEX)
-	
-	‼️ Especifiquen bien a que servidor ira su rango si se paga **1 key**, cualquier equivocacion o problema avisar al Discord a stereosound por DM. ‼️
-	
-	‼️ AL COMPRAR EL RANGO TIENEN QUE ABRIR UN TICKET O MANDARLE DM A ALGUNO DE LOS OWNERS PARA ASI ACTIVARLO ‼️
+		
+	‼️ AL COMPRAR EL RANGO TIENEN QUE ABRIR UN TICKET O MANDARLE DM A ALGUNO DE LOS OWNERS PARA ASI PODER ACTIVARLO ‼️
