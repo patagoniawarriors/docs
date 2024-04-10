@@ -4,7 +4,7 @@ El server y la comunidad no olvida de su reconocimiento por haber aportado demas
 
 Por eso mismo en esta lista damos un buen aplauso a los que son los mas cracks del servidor por todo el buen cariño que nos entregan!
 
-!!! info "TOP 5 Donadores del Server - Ultima Actualizacion: 28/03/24"
+!!! info "TOP 5 Donadores del Server - Ultima Actualizacion: 10/04/24"
 	1. `@gorbi0000     | 20 dolares 🥇`
 	2. `@konosubas	   | 8 keys [FINANCIADOR] 🥈`
 	3. `@reveveve      | 12400 pesos 🥉`
