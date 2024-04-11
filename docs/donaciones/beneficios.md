@@ -14,7 +14,7 @@
 !!! info "Comandos"
 	`TODOS ESTOS COMANDOS LOS PODRAS ENCONTRAR EN EL MENU DEL DONADOR [/donor]`
 	
-	- Modelos personalizados [`/equip`] 
+	- Modelos personalizados [`/equip`] `INACTIVO`
 	- Civilian [`/civ`]
 	- CCC (cambio de colores al tag/nombre/texto) [`/ccc`]
 	- Footprints/Caminar con marca personalizada [`/footprints`]
