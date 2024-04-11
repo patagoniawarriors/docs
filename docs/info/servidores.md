@@ -62,4 +62,4 @@ Esta es la lista de mapas disponibles de cada servidor, ordenando de la siguient
 	cp_bruhstbowl2_b1 - 
 	pl_silverline
 
-> Si tenes problemas para descargar los mapas customs descargalo desde [aca](https://linkdemediafire.com) y pegandolo en Steam/steamapps/common/Team Fortress 2/tf/download/maps
+> Si tenes problemas para descargar los mapas customs descargalo desde [aca](https://www.mediafire.com/file/5zv1ft1xvam6w3n/mapas+customs.zip/file) y pegandolo en Steam/steamapps/common/Team Fortress 2/tf/download/maps
