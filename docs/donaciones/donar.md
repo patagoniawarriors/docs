@@ -16,10 +16,12 @@ Las donaciones se tienen que hablar unicamente con [stereosound](https://steamco
 	
 	- STEAMID: tu STEAMID
 	
-	- Nombre del TAG: [tu tag]
+	- Nombre del TAG: [Tu tag] <user> o Tu tag | <user>
 	
 	- Color del TAG: tu Color de TAG
 	
 	Tu STEAMID lo encontras [por aca](https://steamid.uk) copiando y pegando tu perfil de Steam o tambien usando el comando **!user** dentro del server y para el Color del Tag [por aca](https://htmlcolorcodes.com) (HEX)
 		
-	‼️ AL COMPRAR EL RANGO TIENEN QUE ABRIR UN TICKET O MANDARLE DM A ALGUNO DE LOS OWNERS PARA ASI PODER ACTIVARLO ‼️
+	‼️ AL COMPRAR EL RANGO TIENEN QUE MANDARLE DM AL OWNER PARA ASI PODER ACTIVARLO ‼️
+	
+> 15/04/24 | El Rango Donador para el Minecraft aun sigue en proceso, lo informaremos a la brevedad cuando el rango este listo para salir en nuestro Discord.

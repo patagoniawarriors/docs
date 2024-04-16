@@ -15,6 +15,7 @@
 	`TODOS ESTOS COMANDOS LOS PODRAS ENCONTRAR EN EL MENU DEL DONADOR [/donor]`
 	
 	- Modelos personalizados [`/equip`] `INACTIVO`
+	- Pets [`/pets`]
 	- Civilian [`/civ`]
 	- CCC (cambio de colores al tag/nombre/texto) [`/ccc`]
 	- Footprints/Caminar con marca personalizada [`/footprints`]
@@ -24,5 +25,8 @@
 	- Australium [`/aussie`]
 	- Efectos de voz [`/dsp`]
 	- Ragdoll [`/ragdoll`]
+	
+!!! info "Server Minecraft"
+	- PROXIMAMENTE
 	
 > Con el tiempo los beneficios pueden ir cambiandose, ya sea añadiendo o removiendo ciertos perks para nuestros donadores, aun asi mejoraremos cada vez mas el rango para que valga como se debe su key en el server! 🧉
