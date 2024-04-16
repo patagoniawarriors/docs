@@ -18,7 +18,9 @@ Las donaciones se tienen que hablar unicamente con [stereosound](https://steamco
 	
 	- Nombre del TAG: [Tu tag] <user> o Tu tag | <user>
 	
-	- Color del TAG: tu Color de TAG
+	- Color del TAG: <#colordeltag>
+	
+	- (OPCIONAL) Color del Nick: <#colordelnick>
 	
 	Tu STEAMID lo encontras [por aca](https://steamid.uk) copiando y pegando tu perfil de Steam o tambien usando el comando **!user** dentro del server y para el Color del Tag [por aca](https://htmlcolorcodes.com) (HEX)
 		

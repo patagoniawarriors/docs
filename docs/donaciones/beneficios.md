@@ -8,8 +8,8 @@
  
 !!! info "Server de Team Fortress 2"
 	- Slot reservado (Si el server esta lleno (24/24) tenes 2 slots reservados para vos)
-	- Tag personalizado ( [Presidente] stereosound ) junto con color personalizado
-	- Prioridad a las sugerencias, cambios de modelos y demas
+	- Tag personalizado ( [Presidente] stereosound ) junto con color personalizado (tag y nick)
+	- Prioridad a las sugerencias, cambios de modelos, mapas, etcetera
  
 !!! info "Comandos"
 	`TODOS ESTOS COMANDOS LOS PODRAS ENCONTRAR EN EL MENU DEL DONADOR [/donor]`
@@ -29,4 +29,4 @@
 !!! info "Server Minecraft"
 	- PROXIMAMENTE
 	
-> Con el tiempo los beneficios pueden ir cambiandose, ya sea añadiendo o removiendo ciertos perks para nuestros donadores, aun asi mejoraremos cada vez mas el rango para que valga como se debe su key en el server! 🧉
+> Con el tiempo los beneficios pueden ir cambiandose, ya sea añadiendo o removiendo ciertos perks para nuestros donadores, aun asi mejoraremos cada vez mas el rango para que valga como se debe su donacion en el server! 🧉
