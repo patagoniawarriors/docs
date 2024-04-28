@@ -26,4 +26,4 @@ Las donaciones se tienen que hablar unicamente con [stereosound](https://steamco
 		
 	‼️ AL COMPRAR EL RANGO TIENEN QUE MANDARLE DM AL OWNER PARA ASI PODER ACTIVARLO ‼️
 	
-> 15/04/24 | El Rango Donador para el Minecraft aun sigue en proceso, lo informaremos a la brevedad cuando el rango este listo para salir en nuestro Discord.
+> /04/24 | El rango donador de Minecraft sigue en proceso pero ya se encuentra disponible, toda la info por [Discord](https://discord.gg/WPJuTwwCTD)

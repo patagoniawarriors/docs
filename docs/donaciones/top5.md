@@ -11,4 +11,4 @@ Por eso mismo en esta lista damos un buen aplauso a los que son los mas cracks d
 	4. `@reveveve      | 12400 pesos`
 	5. `@Vex35         | 6 keys 54.70 refs`
 
-> Cada vez que vayas donando al servidor se ira acumulando para asi en algun momento llegar al Top 5, asi que preparate! 
+> Cada vez que vayas donando al servidor se ira acumulando logrando asi llegar al top 5 del servidor! 

@@ -1,6 +1,6 @@
 # Reglas del Servidor
 
-**GENERAL**
+**TEAM FORTRESS**
 
 1. El cheating, hacking, bugear y exploitear en el servidor esta PROHIBIDO llevando a un BAN PERMAMENTE.
 
@@ -56,5 +56,9 @@
         Si te fuiste baneado y queres intentar hacer un desban en nuestros servidores no rompas esta regla, empeoras las cosas si lo haces!
 
 8. Esta prohibido el uso de sprays NSFW / XXX, en caso que se vea sprays de este tipo se baneara automaticamente (spray ban)
+
+**MINECRAFT**
+
+- En proceso dentro de la pagina, en el [Discord](https://discord.gg/WPJuTwwCTD) esta completa sus reglas.
 
 **EL STAFF NO SE HACE CARGO SI NO LEEN LAS REGLAS, TE MANDASTE LA MACANA Y AHORA HAY QUE BANCARSELA POR DESPISTADO, SI TE INCITAN A ROMPERLOS [ACORDATE QUE...](https://www.youtube.com/watch?v=IVtbw4nK7FQ&t=6)**

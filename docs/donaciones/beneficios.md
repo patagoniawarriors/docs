@@ -11,7 +11,7 @@
 	- Tag personalizado ( [Presidente] stereosound ) junto con color personalizado (tag y nick)
 	- Prioridad a las sugerencias, cambios de modelos, mapas, etcetera
  
-!!! info "Comandos"
+!!! info "[TF2] Comandos"
 	`TODOS ESTOS COMANDOS LOS PODRAS ENCONTRAR EN EL MENU DEL DONADOR [/donor]`
 	
 	- Modelos personalizados [`/equip`] `INACTIVO`
@@ -27,6 +27,13 @@
 	- Ragdoll [`/ragdoll`]
 	
 !!! info "Server Minecraft"
-	- PROXIMAMENTE
+	- 1000 Bloques para claimear extra (por defecto son 295)
+	- Tag de donador en tu nombre que se ve en juego/chat/scoreboard
+	- Kit Donador Basico:
+		- `x1 Palo [EMPUJE 5]`
+		- `x1 Arco [RETROCESO 5]`
+		- `x2 Spawner Aldeanos`
+		- `x22 Manzanas Doradas`
+		- `x1 Shulker Box`
 	
 > Con el tiempo los beneficios pueden ir cambiandose, ya sea añadiendo o removiendo ciertos perks para nuestros donadores, aun asi mejoraremos cada vez mas el rango para que valga como se debe su donacion en el server! 🧉

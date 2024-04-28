@@ -12,7 +12,7 @@ Pasate un rato y boludea en alguno de nuestros servidores y como no, invitarlos 
 
 **Server Survival PvP | Minecraft**
 
-**IP:** patagoniacraft.papu.host
+**IP:** patagoniacraft.holy.gg
 
 ## [TF2] MapCycle 🌳
 
@@ -66,7 +66,6 @@ Esta es la lista de mapas disponibles de cada servidor, ordenando de la siguient
 	ctf_2fort_fall - 
 	cp_mojave_b2 -
 	cp_glassworks_rc7a -
-	ktf_lemmyard -
 	pl_silverline
 
 > Si tenes problemas para descargar los mapas customs descargalo desde aca: [Link #1](https://www.mediafire.com/file/5zv1ft1xvam6w3n/mapas+customs.zip/file) | [Link #2](https://www.mediafire.com/file/5ecnpt8jlsj4xx8/mapas+customs+#2.zip/file) y pegandolo en Steam/steamapps/common/Team Fortress 2/tf/download/maps
