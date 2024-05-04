@@ -48,6 +48,7 @@ nav:
   - Informacion:
     - Reglas: info/reglas.md
     - Servidores: info/servidores.md
+    - Alquiler de Servers: info/hosting.md
   - Donaciones:
     - Donar al Server: donaciones/donar.md
     - Beneficios del Donador: donaciones/beneficios.md
