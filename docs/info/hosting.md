@@ -1,7 +1,8 @@
 ## **NukeZone**
 `Explota de Diversion | Hosting Argentino 🇦🇷 de Team Fortress 2 de alta calidad`
 
-!!! info "Nuestros gameservers de NukeZone disponibles"
+!!! example "Nuestros Gameservers de NukeZone online"
+
 	[Patagonia Warriors](https://www.steamserverbrowser.com/games/team-fortress-2/servers/45.235.99.105:27356)
 	
 	[Panchuke con Papas](https://www.steamserverbrowser.com/games/team-fortress-2/servers/45.235.99.105:27795)
