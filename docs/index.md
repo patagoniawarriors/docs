@@ -14,6 +14,6 @@ Si encontraste alguna falla en esta pagina [avisalo por nuestro Discord](https:/
 
 > ‼️ **[Repositorio de GitHub](https://github.com/patagoniawarriors/docs)**
 
-> La ultima donacion fue dada por: [Nissan Skyline](https://steamcommunity.com/id/eljuan111/) el dia 28/04/24, gracias por su aporte idolo! 😎
+> La ultima donacion fue dada por: [iraq lobster]() el dia 03/05/24, gracias por su aporte idolo! 😎
 
 Esta documentación es basada en el [repositorio de Servilive](https://github.com/servilive/docs)

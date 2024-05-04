@@ -31,7 +31,8 @@ Esta es la lista de mapas disponibles de cada servidor, ordenando de la siguient
 	cp_degrootkeep -
 	cp_foundry -
 	cp_steel -
-	cp_reckoner -
+	cp_coldfront -
+	cp_standin_final -
 	cp_yukon_final -
 	cp_mossrock -
 	cp_sulfur -
@@ -49,6 +50,7 @@ Esta es la lista de mapas disponibles de cada servidor, ordenando de la siguient
 	pl_badwater -
 	pl_barnblitz -
 	pl_frontier_final -
+	plr_bananabay -
 	plr_hightower 
 
 	`- king of the hill:`
@@ -56,16 +58,20 @@ Esta es la lista de mapas disponibles de cada servidor, ordenando de la siguient
 	koth_badlands -
 	koth_viaduct -
 	koth_king -
-	koth_highpass
+	koth_highpass -
+	koth_brazil -
+	koth_sharkbay
 	
-	`- otros modos:`
-	sd_doomsday
+	`- player destruction:`
+	pd_galleria
+	pd_selbyen
 
 	`- custom maps:`
 	koth_harvestalpine_v3b - 
 	ctf_2fort_fall - 
 	cp_mojave_b2 -
 	cp_glassworks_rc7a -
+	pl_patagonia_b4d -
 	pl_silverline
 
 > Si tenes problemas para descargar los mapas customs descargalo desde aca: [Link #1](https://www.mediafire.com/file/5zv1ft1xvam6w3n/mapas+customs.zip/file) | [Link #2](https://www.mediafire.com/file/5ecnpt8jlsj4xx8/mapas+customs+#2.zip/file) y pegandolo en Steam/steamapps/common/Team Fortress 2/tf/download/maps
