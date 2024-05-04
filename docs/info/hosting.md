@@ -1,4 +1,4 @@
 ## NukeZone
-`Explota de Diversion | Hosting argentino de Team Fortress de alta calidad`
+`Explota de Diversion | Hosting Argentino 🇦🇷 de Team Fortress de alta calidad`
 
 -- EN CONSTRUCCION --
