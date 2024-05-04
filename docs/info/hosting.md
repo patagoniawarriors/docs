@@ -1,4 +1,10 @@
-## NukeZone
-`Explota de Diversion | Hosting Argentino 🇦🇷 de Team Fortress de alta calidad`
+## **NukeZone**
+`Explota de Diversion | Hosting Argentino 🇦🇷 de Team Fortress 2 de alta calidad`
 
--- EN CONSTRUCCION --
+`Nuestros gameservers de NukeZone disponibles`
+- Patagonia Warriors
+- Panchuke con Papas
+- Mathysv
+- N-cognito Fortress
+
+-- EN CONSTRUCCION AUN... --
