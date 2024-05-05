@@ -5,57 +5,58 @@ Buscas un hosting potente, exquisito, buenisimo, y hasta que aguante +50 nukes e
 
 Ofrecemos servicios de alta gama con atencion al cliente comoda y garantizada en nuestro Discord, al igual que tambien apoyar a proyectos nuevos dentro de TF2 Latinoamerica arrendando servidores de buena infraestructura para el cliente.
 
-Slots disponibles para tu servidor | ¡5 SERVIDORES EN STOCK!
+!!! warning Slots disponibles para tu servidor | ¡5 SERVIDORES EN STOCK!
 
-» [OFERTA] 12 slots - Primer mes: 5550 AR$ | Proximos meses: 6300 AR$
+	» **[OFERTA]** 12 slots - Primer mes: 5550 AR$ | Proximos meses: 6300 AR$
 
-» 14 slots - 7350 AR$
+	» 14 slots - 7350 AR$
 
-» 16 slots - 8400 AR$
+	» 16 slots - 8400 AR$
 
-» 18 slots - 9450 AR$
+	» 18 slots - 9450 AR$
 
-» 20 slots - 10500 AR$
+	» 20 slots - 10500 AR$
 
-» 22 slots - 11550 AR$
+	» 22 slots - 11550 AR$
 
-» [OFERTA] 24 slots - Primer mes: 11850 AR$ | Proximos meses: 12600 AR$
+	» **[OFERTA]** 24 slots - Primer mes: 11850 AR$ | Proximos meses: 12600 AR$
 
 > Buscas mas para tu servidor? Contacta por Discord a **unikjl** en el [servidor de Discord de Patagonia](https://discord.gg/WPJuTwwCTD)
 
+
 !!! info "Caracteristicas de los Servidores"
 
-» Servidor activo 24/7 hosteado en Buenos Aires, Argentina
+	» Servidor activo 24/7 hosteado en Buenos Aires, Argentina
 
-» Sourcemod/Metamod pre-instalado
+	» Sourcemod/Metamod pre-instalado
 
-» Configuraciones pre-instaladas de NukeZone
+	» Configuraciones pre-instaladas de NukeZone
 
-» Panel de control Pterodactyl
+	» Panel de control Pterodactyl
 
-» Base de datos MySQL
+	» Base de datos MySQL
 
-» Datos SFTP/FTP para WinSCP y FileZilla
+	» Datos SFTP/FTP para WinSCP y FileZilla
 
-» FastDL automatico ya instalado en la configuracion del servidor
+	» FastDL automatico ya instalado en la configuracion del servidor
 
-» Soporte Tecnico en Discord
+	» Soporte Tecnico en Discord
 
-» Proteccion Anti DDoS
+	» Proteccion Anti DDoS
 
-» Modificaciones a gusto del cliente (modos de juego, configuraciones, extensions/plugins, demas)
+	» Modificaciones a gusto del cliente (modos de juego, configuraciones, extensions/plugins, demas)
 
 !!! info "Metodos de Pago aceptados"
 
-» CVU/CBU/Transferencia Bancaria
+	» CVU/CBU/Transferencia Bancaria
 
-» Tarjetas de debito (Macro, Galicia, Santander)
+	» Tarjetas de debito (Macro, Galicia, Santander)
 
-» Mercado Pago
+	» Mercado Pago
 
-» Uala
+	» Uala
 
-» [TF2] Keys (1850$ x key)
+	» [TF2] Keys (1850$ x key)
 
 > Los servidores alquilados se entregan desde las 19 PM hasta las 12-01 AM [Horario Argentino](https://time.is/es/Buenos_Aires)
 
