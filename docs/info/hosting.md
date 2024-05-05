@@ -22,7 +22,7 @@ Ofrecemos servicios de alta gama con atencion al cliente comoda y garantizada en
 	» **[OFERTA]** 24 slots - Primer mes: __11850__ AR$ / - USD$ | Proximos meses: __12600__ AR$ / - USD$
 
 
-> Contacta por Discord a **unikjl** en el [servidor de Discord de Patagonia](https://discord.gg/WPJuTwwCTD) en caso de alquilar un servidor o buscar mas slots para tu proyecto.
+> Contacta por el [servidor de Discord](https://discord.gg/WPJuTwwCTD) en caso de alquilar un servidor o buscar mas slots para tu proyecto via Tickets.
 
 
 !!! info "Caracteristicas de los Servidores"
