@@ -9,7 +9,7 @@ Ofrecemos servicios de alta gama con atencion al cliente comoda y garantizada en
 
 	» **[OFERTA]** 12 slots - Primer mes: __5550__ AR$ | Proximos meses: 6300 AR$
 
-	» 14 slots - __7350__ AR$
+	» 14 slots - __7350__ AR$ | 
 
 	» 16 slots - __8400__ AR$
 
@@ -56,7 +56,7 @@ Ofrecemos servicios de alta gama con atencion al cliente comoda y garantizada en
 
 	» Uala
 
-	» [TF2] Keys (1850$ x key)
+	» [TF2/Internacional] Keys (1850 AR$ | 1.65$ x key)
 
 > Los servidores alquilados se entregan desde las 19 PM hasta las 12-01 AM [Horario Argentino](https://time.is/es/Buenos_Aires)
 
