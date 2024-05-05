@@ -61,16 +61,14 @@ Ofrecemos servicios de alta gama con atencion al cliente comoda y garantizada en
 
 > Los servidores alquilados se entregan desde las 19 PM hasta las 12-01 AM [Horario Argentino](https://time.is/es/Buenos_Aires)
 
-!!! example "Nuestros Gameservers de NukeZone en linea"
+!!! example "Nuestros Gameservers publicos de NukeZone en linea"
 
 	`¡Experimenta y proba algunos de los servidores alquilados en NukeZone!`
 
 	[Patagonia Warriors](https://www.steamserverbrowser.com/games/team-fortress-2/servers/45.235.99.105:27356) - 24 slots | Activo desde **Octubre 2023**
 	
 	[Panchuke con Papas](https://www.steamserverbrowser.com/games/team-fortress-2/servers/45.235.99.105:27795) - 26 slots | Activo desde **Abril 2024**
-	
-	[Mathysv](https://www.steamserverbrowser.com/games/team-fortress-2/servers/45.235.99.105:27384) - 12 slots | Activo desde **Abril 2024**
-	
+		
 	[N-cognito Fortress](https://www.steamserverbrowser.com/games/team-fortress-2/servers/45.235.99.105:27294) - 12 slots | Activo desde **Abril 2024**
 
 -- NukeZone 🇦🇷 | Patagonia Warriors --
