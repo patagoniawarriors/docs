@@ -7,19 +7,19 @@ Ofrecemos servicios de alta gama con atencion al cliente comoda y garantizada en
 
 !!! warning Slots disponibles para tu servidor | ¡5 SERVIDORES EN STOCK!
 
-	» **[OFERTA]** 12 slots - Primer mes: 5550 AR$ | Proximos meses: 6300 AR$
+	» **[OFERTA]** 12 slots - Primer mes: __5550__ AR$ | Proximos meses: 6300 AR$
 
-	» 14 slots - 7350 AR$
+	» 14 slots - __7350__ AR$
 
-	» 16 slots - 8400 AR$
+	» 16 slots - __8400__ AR$
 
-	» 18 slots - 9450 AR$
+	» 18 slots - __9450__ AR$
 
-	» 20 slots - 10500 AR$
+	» 20 slots - __10500__ AR$
 
-	» 22 slots - 11550 AR$
+	» 22 slots - __11550__ AR$
 
-	» **[OFERTA]** 24 slots - Primer mes: 11850 AR$ | Proximos meses: 12600 AR$
+	» **[OFERTA]** 24 slots - Primer mes: __11850__ AR$ | Proximos meses: __12600__ AR$
 
 > Buscas mas para tu servidor? Contacta por Discord a **unikjl** en el [servidor de Discord de Patagonia](https://discord.gg/WPJuTwwCTD)
 
