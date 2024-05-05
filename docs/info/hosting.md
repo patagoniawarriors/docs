@@ -5,21 +5,21 @@ Buscas un hosting potente, exquisito, buenisimo, y hasta que aguante **+50 nukes
 
 Ofrecemos servicios de alta gama con atencion al cliente comoda y garantizada en nuestro Discord, al igual que tambien apoyar a proyectos nuevos dentro de TF2 Latinoamerica arrendando servidores de buena infraestructura para el cliente. Animate, hace realidad tu sueño de tu propio servidor en el juego del Gordo y Sus Amigos!
 
-!!! warning Slots disponibles para tu servidor | ¡5 SERVIDORES EN STOCK!
+!!! warning "Slots disponibles para tu servidor | ¡5 SERVIDORES EN STOCK!"
 
-	» **[OFERTA]** 12 slots - Primer mes: 5550 AR$ / USD$ | Proximos meses: 6300 AR$ / USD$
+	» **[OFERTA]** 12 slots - Primer mes: 5550 AR$ / - USD$ | Proximos meses: 6300 AR$ / - USD$
 
-	» 14 slots - 7350 AR$ | USD$
+	» 14 slots - 7350 AR$ | - USD$
 
-	» 16 slots - 8400 AR$ | USD$
+	» 16 slots - 8400 AR$ | - USD$
 
-	» 18 slots - 9450 AR$ | USD$
+	» 18 slots - 9450 AR$ | - USD$
 
-	» 20 slots - 10500 AR$ | USD$
+	» 20 slots - 10500 AR$ | - USD$
 
-	» 22 slots - 11550 AR$ | USD$
+	» 22 slots - 11550 AR$ | - USD$
 
-	» **[OFERTA]** 24 slots - Primer mes: __11850__ AR$ / USD$ | Proximos meses: __12600__ AR$ / USD$
+	» **[OFERTA]** 24 slots - Primer mes: __11850__ AR$ / - USD$ | Proximos meses: __12600__ AR$ / - USD$
 
 
 > Buscas mas para tu servidor? Contacta por Discord a **unikjl** en el [servidor de Discord de Patagonia](https://discord.gg/WPJuTwwCTD)
@@ -57,7 +57,7 @@ Ofrecemos servicios de alta gama con atencion al cliente comoda y garantizada en
 
 	» Uala
 
-	» [TF2/Internacional] Keys (1850 AR$ | 1.65$ x key)
+	» **[TF2/Internacional]** Keys (1850 AR$ | 1.65$ x key)
 
 > Los servidores alquilados se entregan desde las 19 PM hasta las 12-01 AM [Horario Argentino](https://time.is/es/Buenos_Aires)
 
