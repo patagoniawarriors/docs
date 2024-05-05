@@ -1,9 +1,9 @@
 ## **NukeZone**
-`Explota de Diversion | Hosting Argentino 🇦🇷 de Team Fortress 2 de alta calidad`
+`💥 Explota de Diversion | Hosting Argentino 🇦🇷 de Team Fortress 2 de alta calidad`
 
 Buscas un hosting potente, exquisito, buenisimo, y hasta que aguante **+50 nukes en 1 segundo?** Estas con suerte genio, nosotros te lo damos!
 
-Ofrecemos servicios de alta gama con atencion al cliente comoda y garantizada en nuestro Discord, al igual que tambien apoyar a proyectos nuevos dentro de TF2 Latinoamerica arrendando servidores de buena infraestructura para el cliente. Animate, hace realidad tu sueño de tu propio servidor en el juego del Gordo y Sus Amigos!
+Ofrecemos servicios de alta gama con atencion al cliente comoda y garantizada en nuestro Discord, al igual que tambien apoyar a proyectos nuevos dentro de TF2 Latinoamerica arrendando servidores de buena infraestructura para el cliente. Animate, hace realidad tu sueño de tu propio servidor en el juego del Gordo y sus amigos!
 
 !!! warning "Slots disponibles para tu servidor | ¡5 SERVIDORES EN STOCK!"
 
