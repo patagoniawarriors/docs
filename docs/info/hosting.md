@@ -7,19 +7,19 @@ Ofrecemos servicios de alta gama con atencion al cliente comoda y garantizada en
 
 !!! warning "Slots disponibles para tu servidor | ¡5 SERVIDORES EN STOCK!"
 
-	» **[OFERTA]** 12 slots - Primer mes: 5550 AR$ / - USD$ | Proximos meses: 6300 AR$ / - USD$
+	» **[OFERTA]** 12 slots - Primer mes: 5550 AR$ / 4 keys | Proximos meses: 6300 AR$ / 5 keys
 
-	» 14 slots - 7350 AR$ | - USD$
+	» 14 slots - 7350 AR$ | 6 keys
 
-	» 16 slots - 8400 AR$ | - USD$
+	» 16 slots - 8400 AR$ | 7 keys
 
-	» 18 slots - 9450 AR$ | - USD$
+	» 18 slots - 9450 AR$ | 8 keys
 
-	» 20 slots - 10500 AR$ | - USD$
+	» 20 slots - 10500 AR$ | 9 keys
 
-	» 22 slots - 11550 AR$ | - USD$
+	» 22 slots - 11550 AR$ | 10 keys
 
-	» **[OFERTA]** 24 slots - Primer mes: __11850__ AR$ / - USD$ | Proximos meses: __12600__ AR$ / - USD$
+	» **[OFERTA]** 24 slots - Primer mes: __11850__ AR$ / 11 keys | Proximos meses: __12600__ AR$ / 12 keys
 
 
 > Contacta por el [servidor de Discord](https://discord.gg/yfD2u3EbGp) en caso de alquilar un servidor o buscar mas slots para tu proyecto via Tickets.
@@ -39,7 +39,7 @@ Ofrecemos servicios de alta gama con atencion al cliente comoda y garantizada en
 
 	» Datos SFTP/FTP para WinSCP y FileZilla
 
-	» FastDL automatico ya instalado en la configuracion del servidor
+	» FastDL Automatico
 
 	» Soporte Tecnico en Discord
 
